@@ -3,6 +3,17 @@
 <h1>Assignment 3 Hyperledger fabric</h1>
  
   
+
+
+<h2> Implementation info </h2>
+
+The implementaiton was not completed, all the tutorials were completed, but the implementation of the voting applicaiton was not completed.
+<br>
+<br>
+<br>
+
+<h1> Analysis and Design </h1> 
+
 <h2>Formulate Hyperledger Fabric use case
 Voting application</h2>
 
