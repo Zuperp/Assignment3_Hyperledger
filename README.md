@@ -75,5 +75,9 @@ C1 is channel one, the voting channel in which votes are cast. <br> C2 is the to
 Each organization has a certificate which is used to authorize them. <br>
 The external applications are connected to the channels so smart chaincode can be evoked.
 <br>
-The process of analyzing and designing was done in collaboration with Mads Møller Hansen.
+<br>
+
+<h3> Collaboration </h3>
+
+**The process of analyzing and designing was done in collaboration with Mads Møller Hansen.**
 
