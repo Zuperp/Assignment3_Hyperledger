@@ -59,5 +59,10 @@ Now that we have somewhat argued for the suitability of blockchain, we can use t
 
 ![image](https://user-images.githubusercontent.com/43138778/205725987-8a4804eb-3458-4b18-acd4-8d0283466ee3.png)
 
-The
+The diagram shows a consortium of organizations. The organizations have nodes. <br> The peers uphold a ledger.  And there is a smart contract that can be used. <br>
+C1 is channel one, the voting channel in which votes are cast. <br> C2 is the token distribution channel, this channel distributes the tokens used to vote.
+Each organization has a certificate which is used to authorize them. <br>
+The external applications are connected to the channels so smart chaincode can be evoked.
+<br>
+The process of analyzing and designing was done in collaboration with Mads Møller Hansen.
 
